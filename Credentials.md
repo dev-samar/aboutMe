@@ -15,7 +15,7 @@ Combines strong business-to-technology translation with hands-on technical valid
 ## Professional Experience
 
 ### Solution Architect / IVR
-**Enterprise Healthcare & Conversational AI | 2026–Present**
+**Enterprise Healthcare & Conversational AI | September 2025–Present**
 - **Healthcare Integration Boundaries:** Architect enterprise conversational-AI solutions connecting Google-based bot experiences with middleware, REST/GraphQL services, authentication, and healthcare back-end platforms. Shield conversational channels from backend complexity through middleware orchestration, normalized DTOs, business rules, and source-to-target mappings.
 - **Prior Authorization & Search Capabilities:** Architected Behavioral Health Prior Authorization capabilities, defining authorization-search patterns, member/provider scoping, and data contracts.
 - **Gym Search Integration:** Architected conversational gym-search capabilities, orchestrating member context, ZIP/location resolution, facility coverage, and member-specific access validation into a simplified customer-facing experience.
@@ -23,7 +23,7 @@ Combines strong business-to-technology translation with hands-on technical valid
 - **Discovery & Workbench Development:** Use Splunk, Insomnia, OpenAPI specifications, GraphQL schemas, and runtime logs for API discovery and dependency analysis.
 
 ### TELUS / XAVIENT
-**Business Analyst → Conversation Architect | Module Lead | 2016 – 2025**
+**Business Analyst → Conversation Architect | Module Lead | September 2016 – September 2025**
 - **Career Progression:** Progressed from Business Analyst creating Process Definition Documents (PDDs) for RPA automation into Conversation Architecture, hands-on Dialogflow CX development, and technical leadership; spent approximately 4 years developing DFCX voice solutions and leading developers.
 - **Dialogflow CX & Playbook Architecture:** Designed Dialogflow CX flows, playbooks, and generators, including reusable playbook-to-playbook orchestration for modular conversational capabilities and enterprise back-end integration.
 - **Conversational Scheduled Callbacks:** Re-architected scheduled-callback selection from a deterministic top-three-slot flow to a conversational playbook, allowing callers to express preferences and interactively select from broader availability returned by the scheduling API.
