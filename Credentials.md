@@ -45,7 +45,7 @@ Built approximately 15 years of BFSI business-development experience, developing
 
 ## Education
 - **MBA (Sales & Marketing)** — [Department of Management Sciences (PUMBA), Savitribai Phule Pune University](https://www.pumba.in/)
-- **Bachelor's Degree in Commerce (B.Com)**# Credentials
-https://partner.skills.google/public_profiles/25de4c59-64e6-4ba2-83e9-0de0426d1aa4
+- **Bachelor's Degree in Commerce (B.Com)**
+
 # Education
 MBA Sales & Marketing from https://www.pumba.in/#
