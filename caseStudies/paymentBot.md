@@ -6,7 +6,7 @@
 
 ---
 
-## 1. The Business Problem (Plain English)
+## 1. The Business Problem
 When customers call an AI voice assistant to pay a bill or set up recurring payments, letting the AI model "hear" or process raw credit card numbers creates a massive security and compliance risk (PCI-DSS). 
 
 At the same time, forcing callers to hang up, call a separate payment line, and repeat their account details ruins the customer experience. The challenge was to build a **reusable payment engine** that keeps sensitive card numbers 100% invisible to the AI while making the experience feel like one smooth conversation.
